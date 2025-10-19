@@ -1,5 +1,5 @@
 # A comprehensive, step-by-step Power BI project building a healthcare dashboard from raw data to actionable insights.
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/a0d9e769-e81a-4c8c-9235-763c8d4245bf/78893edb65d8a6275a90?experience=power-bi](https://app.powerbi.com/groups/me/reports/8d58e4bb-59a7-4f14-b42d-7e3f49b75301/a2faa6896d69c041cf9e?experience=power-bi)
+### Dashboard Link : [[https://app.powerbi.com/groups/me/reports/a0d9e769-e81a-4c8c-9235-763c8d4245bf/78893edb65d8a6275a90?experience=power-bi](https://app.powerbi.com/groups/me/reports/8d58e4bb-59a7-4f14-b42d-7e3f49b75301/a2faa6896d69c041cf9e?experience=power-bi)](https://app.powerbi.com/view?r=eyJrIjoiMzgzNzc1MTAtNzE2Ni00MzMwLTlhNTMtMGZlYmM3MTNiNmU1IiwidCI6ImYwZDU1YWNiLTY2ZmMtNGMyMS05YjIyLWU1MzIwOTRhNDg5YiJ9)
 
 ## Problem Statement
 This healthcare dashboard helps hospital administrators and healthcare providers better understand patient waiting times and service efficiency. It enables stakeholders to monitor the status of inpatient and outpatient waiting lists, identify trends, and pinpoint areas requiring improvement. By analyzing key metrics such as average and median waiting times across specialties and age profiles, the dashboard highlights bottlenecks and inefficiencies in patient flow.
